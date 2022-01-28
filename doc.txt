@@ -1,0 +1,6 @@
+Create a todo App
+1)develope a form where the user can enter 1) Tasks 2) Due date
+2)As the user submits the button, input values should be stored inside an object and should be pushed into an array
+3)this array should be displayed on the website with all tasks displayed
+
+4)Once the user clicks the check button on a task it should be gone and the relavant array should be removed
